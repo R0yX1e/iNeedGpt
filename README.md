@@ -1,5 +1,5 @@
 # iNeedGpt
-GPT TelegBot in Google Script
+ChatGPT Telegram Bot in Google Script
 
 ## How To Use
 1. open  https://script.google.com/home/ && create
