@@ -9,4 +9,4 @@ GPT TelegBot in Google Script
 5. ![](image/File_3.png)
 6. copy url & Paste `var webhook_url = "";`
 7. ![](image/File_4.png)
-8. enjot it
+8. enjoy it
